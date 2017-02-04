@@ -3,12 +3,9 @@
 ---
 @charset "utf-8";
 
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "variables";
-@import "bootstrap/buttons";
 @import "layout";
 @import "components";
 @import "modules";

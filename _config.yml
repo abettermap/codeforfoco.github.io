@@ -40,7 +40,6 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-autoprefixer
-  - jekyll-bootstrap-sass
 
 # mimic GitHub Pages with --safe
 whitelist:

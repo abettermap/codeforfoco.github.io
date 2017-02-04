@@ -15,13 +15,6 @@ $light-blue: hsl(206, 30%, 71%);
 $link-color: $medium-blue; // Not consistent, but probably should be
 
 /**
- * BOOTSTRAP OVERRIDES
- */
-$btn-default-color:              $white;
-$btn-default-bg:                 $dark-red;
-$btn-default-border:             darken($dark-red, 20%);
-
-/**
  * FONTS
  */
 $heading-font: 'Quantico', sans-serif;
